@@ -1,0 +1,17 @@
+body {
+  background-color: white;
+}
+
+.headerWrapper {
+  position: fixed;
+  top: 0;
+}
+
+.headerInnerWrapper {
+  position: relative;
+}
+
+.appPagesWrapper {
+  width: calc(100% - 244px);
+  margin-left: auto;
+}

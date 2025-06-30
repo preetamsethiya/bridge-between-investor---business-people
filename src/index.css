@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: sans-serif;
+  min-height: 100vh;
+  height: 100%;
+}
+
+body a {
+  text-decoration: none;
+  color: black;
+}
+
+body input,
+body button,
+body textarea {
+  font-size: 14px;
+  line-height: 18px;
+  font-family: sans-serif;
+}
